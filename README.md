@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:D46993,50:9A96BB,100:B2EBF4&text=Gihyeon%20Park&fontSize=50&fontColor=FFFFFF)
 
 <h3 align="center"> 📃 평생 공부 📃</h3>
+<p align="center"> while True: </p>
 <p align="center">
-</br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Java-00667D?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
